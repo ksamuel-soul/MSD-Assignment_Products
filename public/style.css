@@ -1,0 +1,36 @@
+body {
+  background: red;
+  color: #fff;
+  max-height: 100vh;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.product-card {
+  background: lightgreen;
+  padding: 15px;
+  border-radius: 12px;
+  color:black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+input {
+  background: white;
+}
+
+button {
+  background: aqua;
+  color: black;
+  cursor: pointer;
+}
+

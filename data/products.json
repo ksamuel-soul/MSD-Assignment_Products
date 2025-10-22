@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 499
+  },
+  {
+    "id": 2,
+    "name": "Keyboard",
+    "price": 999
+  },
+  {
+    "name": "Samuel Ebenezer Konala",
+    "price": "11",
+    "id": 3
+  },
+  {
+    "name": "Samuel Ebenezer Konala",
+    "price": "1",
+    "id": 4
+  },
+  {
+    "name": "india",
+    "price": "500000000000",
+    "id": 5
+  }
+]
